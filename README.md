@@ -14,3 +14,5 @@
 - Prisma
 - Axios
 - OpenAI
+- TanStack React Query
+- zod
