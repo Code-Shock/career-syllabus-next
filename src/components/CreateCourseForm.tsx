@@ -165,7 +165,7 @@ const CreateCourseForm = ({ isPro }: Props) => {
             className="w-full mt-6"
             size="lg"
           >
-            Lets Go!
+            Let's Get Started!
           </Button>
         </form>
       </Form>
