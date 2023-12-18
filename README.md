@@ -16,3 +16,4 @@
 - OpenAI
 - TanStack React Query
 - zod
+- Shadcn
