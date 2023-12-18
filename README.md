@@ -7,6 +7,7 @@
 - OpenAI
 - Unsplash API
 - Sripe
+- YouTube
 
 
 ### Packages
