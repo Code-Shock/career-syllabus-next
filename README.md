@@ -6,6 +6,7 @@
 - Google API Auth
 - OpenAI
 - Unsplash API
+- Sripe
 
 
 ### Packages
